@@ -14,3 +14,7 @@ HackerRank is the market-leading technical assessment and remote interview solut
 |0|Hello, World.|[Link](Dashboard/30DayofCode/day0.cpp)|
 
 ### C++
+|Subdomain|Challenge|Solution|
+|-|-|-|
+|Introduction|Say "Hello, World!" With C++|[Link](Dashboard/C++/practice0.cpp)|
+|Introduction|Input and Output|[Link](Dashboard/C++/practice1.cpp)|
