@@ -8,12 +8,12 @@ HackerRank is the market-leading technical assessment and remote interview solut
 * [30 Days of Code](#30%20Days%20of%20Code)
 * [C++](#C++)
 
-### 30 Days of Code
+## 30 Days of Code
 |Day|Challenge|Solution|
 |-|-|-|
 |0|Hello, World.|[Link](Dashboard/30DayofCode/day0.cpp)|
 
-### C++
+## C++
 |Subdomain|Challenge|Solution|
 |-|-|-|
 |Introduction|Say "Hello, World!" With C++|[Link](Dashboard/C++/practice0.cpp)|
