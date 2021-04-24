@@ -11,6 +11,6 @@ HackerRank is the market-leading technical assessment and remote interview solut
 ### 30 Days of Code
 |Day|Challenge|Solution|
 |-|-|-|
-|0|Hello, World.|[Link]()|
+|0|Hello, World.|[Link](Dashboard/30DayofCode/day0.cpp)|
 
 ### C++
