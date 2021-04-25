@@ -21,3 +21,7 @@ HackerRank is the market-leading technical assessment and remote interview solut
 |Introduction|Input and Output|[Link](Dashboard/C++/practice1.cpp)|
 |Introduction|Conditional Statements|[Link](Dashboard/C++/practice2.cpp)|
 |Introduction|For Loop|[Link](Dashboard/C++/practice3.cpp)|
+|Introduction|Functions|[Link](Dashboard/C++/practice4.cpp)|
+|Introduction|Pointer|[Link](Dashboard/C++/practice5.cpp)|
+|Introduction|Arrays Introduction|[Link](Dashboard/C++/practice6.cpp)|
+|Introduction|Variable Sized Arrays|[Link](Dashboard/C++/practice7.cpp)|
