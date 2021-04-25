@@ -20,3 +20,4 @@ HackerRank is the market-leading technical assessment and remote interview solut
 |Introduction|Say "Hello, World!" With C++|[Link](Dashboard/C++/practice0.cpp)|
 |Introduction|Input and Output|[Link](Dashboard/C++/practice1.cpp)|
 |Introduction|Conditional Statements|[Link](Dashboard/C++/practice2.cpp)|
+|Introduction|For Loop|[Link](Dashboard/C++/practice3.cpp)|
